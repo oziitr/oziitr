@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ozii.tr/logo.jpg" width="287" height="565" style="border-radius: 50%; border: 4px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;">>
+  <img src="https://ozii.tr/logo.jpg" width="372" height="364" style="border-radius: 50%; border: 4px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;">>
   
   <h1 style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">👋 Merhaba, Ben OZII</h1>
   <h3 style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF;">🚀 Creative Developer & 🔒 Siber Güvenlik Uzmanı</h3>
