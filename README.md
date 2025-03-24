@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/937427776707911711/a_302e0a319ebd590eb6c3b396ced1cd42.gif?size=256" alt="OZII Logo" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ff00; box-shadow: 0 0 20px #00ff00;">
+  <img src="https://ozii.tr/logo.jpg" alt="OZII Logo" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ff00; box-shadow: 0 0 20px #00ff00;">
   
   <h1>👋 Merhaba, Ben OZII</h1>
   <h3>🚀 Creative Developer & 🔒 Siber Güvenlik Uzmanı</h3>
