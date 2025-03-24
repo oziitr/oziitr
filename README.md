@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://ozii.tr/logo.jpg" width="272" height="264" style="border-radius: 50%; border: 4px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;">
   
-  <h1 style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">👋 Merhaba, Ben OZII</h1>
-  <h3 style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF;">🚀 Creative Developer & 🔒 Siber Güvenlik Uzmanı</h3>
+  <h1 style="color: #00ff00; text-shadow: 0 0 10px #00ff00;">👋 Merhaba, Ben OZII</h1>
+  <h3 style="color: #00ff00; text-shadow: 0 0 10px #00ff00;">🚀 Creative Developer & 🔒 Siber Güvenlik Uzmanı</h3>
 
   <p>
     <a href="https://discord.com/users/937427776707911711" target="_blank">
@@ -34,8 +34,8 @@
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oziitr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziitr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=oziitr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziitr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="Top Languages">
 </div>
 
 ## 💪 Yeteneklerim
@@ -105,14 +105,14 @@
 
 <div align="center">
   <a href="https://github.com/oziitr/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oziitr&repo=portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF" alt="Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oziitr&repo=portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="Portfolio">
   </a>
 </div>
 
 ## 📈 Aktivite Grafiğim
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oziitr&theme=dark&hide_border=true&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FF00FF" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oziitr&theme=dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00" alt="GitHub Activity Graph">
 </div>
 
 ## 🏆 Başarılarım
@@ -138,9 +138,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oziitr&color=FF00FF&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/oziitr?label=Followers&style=flat-square&color=FF00FF" alt="Followers">
-  <img src="https://img.shields.io/github/stars/oziitr?label=Stars&style=flat-square&color=FF00FF" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=oziitr&color=00ff00&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/oziitr?label=Followers&style=flat-square&color=00ff00" alt="Followers">
+  <img src="https://img.shields.io/github/stars/oziitr?label=Stars&style=flat-square&color=00ff00" alt="Stars">
 </div>
 
 <div align="center">
