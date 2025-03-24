@@ -39,18 +39,77 @@
 </div>
 
 ## 💪 Yeteneklerim
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</div>
 
 <div align="center">
-  <img src="https://progress-bar.dev/85/?title=JavaScript&color=00ff00" alt="JavaScript">
-  <img src="https://progress-bar.dev/80/?title=Python&color=00ff00" alt="Python">
-  <img src="https://progress-bar.dev/30/?title=React&color=00ff00" alt="React">
-  <img src="https://progress-bar.dev/89/?title=Node.js&color=00ff00" alt="Node.js">
-  <img src="https://progress-bar.dev/87/?title=Ethical+Hacking&color=00ff00" alt="Ethical Hacking">
-  <img src="https://progress-bar.dev/95/?title=PHP&color=00ff00" alt="PHP">
-  <img src="https://progress-bar.dev/99/?title=HTML&color=00ff00" alt="HTML">
-  <img src="https://progress-bar.dev/45/?title=C++&color=00ff00" alt="C++">
-  <img src="https://progress-bar.dev/99/?title=SQL&color=00ff00" alt="SQL">
-  <img src="https://progress-bar.dev/45/?title=Go&color=00ff00" alt="Go">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/React-30%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Node.js-89%25-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Ethical%20Hacking-87%25-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/PHP-95%25-777BB3?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/HTML-99%25-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/C++-45%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/SQL-99%25-F29111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Go-45%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Projelerim
