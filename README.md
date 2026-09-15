@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/identity.png">
-  <img src="assets/identity.gif" alt="Ozii — Creative Developer, Web Systems, Linux" width="100%">
+  <img src="assets/identity.gif?v=2" alt="Ozii — Creative Developer, Web Systems, Linux" width="100%">
 </picture>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <a href="https://discord.com/users/937427776707911711">Discord</a>
 </p>
 
-<img src="assets/about.svg" alt="Web sistemleri, Node.js servisleri, Linux sunucular ve otomasyon üzerine çalışıyorum. Arayüzün yanında performansı ve sistem mantığını da önemsiyorum." width="100%">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/about-static.svg"><img src="assets/about.svg?v=2" alt="Web sistemleri, Node.js servisleri, Linux sunucular ve otomasyon üzerine çalışıyorum. Arayüzün yanında performansı ve sistem mantığını da önemsiyorum." width="100%"></picture>
 
-<img src="assets/toolkit.svg" alt="JavaScript, TypeScript, React, Next.js, Node.js, PHP, PostgreSQL, HTML, CSS, Python, Linux, Rust, Tauri, Go ve Git." width="100%">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/toolkit-static.svg"><img src="assets/toolkit.svg?v=2" alt="JavaScript, TypeScript, React, Next.js, Node.js, PHP, PostgreSQL, HTML, CSS, Python, Linux, Rust, Tauri, Go ve Git." width="100%"></picture>
 
 ### Seçili projeler
 
