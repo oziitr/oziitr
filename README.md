@@ -1,39 +1,30 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header.png">
-    <img src="assets/header.gif" alt="OZII — Windows araçları, web geliştirme ve deneysel projeler" width="100%">
-  </picture>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/identity.png">
+  <img src="assets/identity.gif" alt="Ozii — Creative Developer, Web Systems, Linux" width="100%">
+</picture>
 
-  <h3>Merhaba, ben ozii.</h3>
-  <p>Günlük işleri kolaylaştıran masaüstü araçları ve web projeleri geliştiriyorum.</p>
+<p align="center">
+  <a href="https://ozii.tr">Website</a> ·
+  <a href="mailto:hello@ozii.tr">E-posta</a> ·
+  <a href="https://www.instagram.com/ozii.js/">Instagram</a> ·
+  <a href="https://discord.com/users/937427776707911711">Discord</a>
+</p>
 
-  <a href="https://discord.com/users/937427776707911711"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.instagram.com/ozii.y"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.gg/codum"><img src="https://img.shields.io/badge/Topluluk-263743?style=flat-square&logo=discord&logoColor=53e0c4" alt="Discord topluluğu"></a>
-</div>
+<img src="assets/about.svg" alt="Web sistemleri, Node.js servisleri, Linux sunucular ve otomasyon üzerine çalışıyorum. Arayüzün yanında performansı ve sistem mantığını da önemsiyorum." width="100%">
+
+<img src="assets/toolkit.svg" alt="JavaScript, TypeScript, React, Next.js, Node.js, PHP, PostgreSQL, HTML, CSS, Python, Linux, Rust, Tauri, Go ve Git." width="100%">
+
+### Seçili projeler
+
+| Proje | Ne yapıyor? | Teknolojiler |
+| :--- | :--- | :--- |
+| **[OziiDPI](https://github.com/oziitr/OziiDPI)** | Discord ve Chrome için uygulama bazlı yerel DPI tüneli. | Rust · Tauri · React |
+| **İnangıda** | Yerel işletme için online manav ve sipariş sistemi. | Next.js · PostgreSQL · Prisma |
+| **AxionBot** | Discord toplulukları için yönetim, moderasyon ve otomasyon. | Node.js · Discord.js · PostgreSQL |
+| **Ozii Labs** | Yaratıcı arayüzler ve kişisel web deneyleri. | Next.js · TypeScript · Motion |
+
+Kaynağı paylaşılmış projelere depo bağlantılarından ulaşabilirsin. Diğer çalışmalarım hakkında [hello@ozii.tr](mailto:hello@ozii.tr) üzerinden iletişime geçebilirsin.
 
 ---
 
-### Nelerle uğraşıyorum?
-
-- **Windows araçları:** Kullanımı kolay masaüstü uygulamaları ve otomasyon.
-- **Web geliştirme:** React arayüzleri, PHP projeleri ve küçük yardımcı araçlar.
-- **Deneysel projeler:** Yeni fikirleri çalışan uygulamalara dönüştürmek.
-
-### Teknolojiler
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Rust-20232A?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Tauri-20232A?style=flat-square&logo=tauri&logoColor=24C8D8" alt="Tauri">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-</p>
-
-### Bu profilde
-
-Herkese açık projelerimi aşağıdaki depolarda bulabilirsin. İletişim için Discord üzerinden ulaşabilirsin.
-
-<sub>oziitr · Fikirden çalışan ürüne. · <a href="assets/header.png">Hareketsiz başlık</a></sub>
+<p align="center"><sub>ozii · Fikirden çalışan sisteme. · <a href="assets/identity.png">Hareketsiz başlık</a></sub></p>
